@@ -1,0 +1,49 @@
+smartbrief.com. 48 Time(s) at: 2016-10-10 10:59:42.973
+1. smartbrief.com.
+2. load.sumome.com.
+3. cdn.smartbrief.com.
+4. ajax.googleapis.com.
+5. www.googletagservices.com.
+6. s7.addthis.com.		#bad dns
+7. www.googletagservices.com.
+8. partner.googleadservices.com.		#bad dns
+9. dev.visualwebsiteoptimizer.com.
+10. www.google-analytics.com.
+11. stats.g.doubleclick.net.
+12. sumome.com.
+13. m.addthisedge.com.		
+14. m.addthis.com.
+15. sumome.com.
+16. sumome-140a.kxcdn.com.
+17. fonts.googleapis.com.
+18. fonts.gstatic.com.
+19. sumome.com.
+20. www2.smartbrief.com.
+21. www.mckinsey.com.
+22. www.addthis.com.		#bad dns
+23. www.facebook.com.
+24. www.youtube.com.
+25. www.edtechmagazine.com.
+26. www.reuters.com.
+27. www.coindesk.com.
+28. www.wsj.com.
+29. www.indystar.com.
+30. consumer.healthday.com.
+31. adage.com.
+32. www.washingtonpost.com.
+33. www.kansas.com.
+34. nypost.com.
+35. thehill.com.
+36. www.nytimes.com.
+37. www.adweek.com.		#bad dns
+38. abcnews.go.com.
+39. www.cnbc.com.
+40. www.constructiondive.com.
+41. www.defensenews.com.
+42. www.latimes.com.
+43. smartbriefcareers.silkroad.com.		#bad dns
+44. jobs.smartbrief.com.
+45. plus.google.com.
+46. twitter.com.
+47. www.linkedin.com.
+48. ping.chartbeat.net.

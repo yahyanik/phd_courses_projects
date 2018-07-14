@@ -1,0 +1,16 @@
+yahoo.com. 15 Time(s) at: 2016-10-10 14:49:43.290
+1. yahoo.com.
+2. www.yahoo.com.
+3. s.yimg.com.
+4. csc.beap.bc.yahoo.com.
+5. sb.scorecardresearch.com.
+6. csync.flickr.com.
+7. csync.yahooapis.com.
+8. geo.yahoo.com.
+9. geo.query.yahoo.com.
+10. www.yahoo.com.
+11. geo.query.yahoo.com.
+12. bats.video.yahoo.com.
+13. video-api.yql.yahoo.com.
+14. geo.query.yahoo.com.
+15. bats.video.yahoo.com.

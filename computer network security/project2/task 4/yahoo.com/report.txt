@@ -1,0 +1,48 @@
+yahoo.com. 65 Time(s) at: 2016-10-10 10:55:45.311
+1. yahoo.com.
+2. www.yahoo.com.
+3. s.yimg.com.
+4. csc.beap.bc.yahoo.com.
+5. sb.scorecardresearch.com.
+6. na.ads.yahoo.com.		#bad dns
+7. rs.gwallet.com.
+8. ads.yahoo.com.		#bad dns
+9. ss.symcd.com.
+10. ocsp.digicert.com.
+11. ad.doubleclick.net.		#bad dns
+12. i.r1-cdn.net.
+13. api.placed.com.
+14. s0.2mdn.net.
+15. pagead2.googlesyndication.com.	#bad dns
+16. cdnjs.cloudflare.com.
+17. clients1.google.com.
+18. geo-um.btrll.com.
+19. rmx.pxl.ace.advertising.com.		#bad dns
+20. match.adsrvr.org.		#bad dns
+21. googleads.g.doubleclick.net.		#bad dns
+22. cm.g.doubleclick.net.
+23. ocsp.sca1b.amazontrust.com.
+24. pr-bh.ybp.yahoo.com.
+25. csync.flickr.com.
+26. ocsp.entrust.net.
+27. ocsp.trustwave.com.
+28. sync.graph.bluecava.com.
+29. cache.btrll.com.
+30. csync.yahooapis.com.
+31. geo.query.yahoo.com.
+32. geo.yahoo.com.
+33. beacon.krxd.net.
+34. comet.yahoo.com.
+35. www.yahoo.com.
+36. geo.query.yahoo.com.
+37. comet.yahoo.com.
+38. geo.query.yahoo.com.
+39. bats.video.yahoo.com.
+40. us.adserver.yahoo.com.		#bad dns
+41. video-api.yql.yahoo.com.
+42. geo.query.yahoo.com.
+43. nyarack06.vpg.cdn.yimg.com.
+44. s1.yimg.com.
+45. comet.yahoo.com.
+46. ping.chartbeat.net.
+47. comet.yahoo.com.

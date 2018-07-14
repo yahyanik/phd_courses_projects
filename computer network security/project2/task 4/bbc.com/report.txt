@@ -1,0 +1,52 @@
+bbc.com. 51 Time(s) at: 2016-10-10 10:54:10.086
+1. bbc.com.
+2. www.bbc.com.
+3. static.bbci.co.uk.
+4. nav.files.bbci.co.uk.
+5. static.bbc.co.uk.
+6. mybbc.files.bbci.co.uk.
+7. ichef.bbci.co.uk.
+8. fig.bbc.co.uk.
+9. www.bbc.co.uk.
+10. dev.visualwebsiteoptimizer.com.
+11. cdn.krxd.net.
+12. ssc.api.bbc.com.
+13. secure-us.imrworldwide.com.
+14. me-cdn.effectivemeasure.net.
+15. www.googletagservices.com.
+16. search.files.bbci.co.uk.
+17. partner.googleadservices.com.	#bad dns
+18. s.effectivemeasure.net.
+19. ocsp2.globalsign.com.
+20. securepubads.g.doubleclick.net.	#bad dns
+21. emp.bbci.co.uk.
+22. b.scorecardresearch.com.
+23. sa.bbc.co.uk.
+24. pagead2.googlesyndication.com.	#bad dns
+25. s0.2mdn.net.
+26. open.live.bbc.co.uk.
+27. r.bbci.co.uk.
+28. js.dmtry.com.
+29. secure.insightexpressai.com.
+30. s.thebrighttag.com.
+31. static.chartbeat.com.
+32. beacon.krxd.net.
+33. edigitalsurvey.com.
+34. code.createjs.com.
+35. clients1.google.com.
+36. ss.symcd.com.
+37. log.dmtry.com.
+38. ocsp.digicert.com.
+39. shop.bbc.com.
+40. search.bbc.co.uk.
+41. advertising.bbcworldwide.com.	#bad dns
+42. www.bbcamerica.com.
+43. www.bbcnewschannelfinder.com.
+44. www.bbccanada.com.
+45. www.cbeebies.com.
+46. www.bbckids.ca.
+47. get.adobe.com.
+48. ad.doubleclick.net.		#bad dns
+49. securepubads.g.doubleclick.net.localdomain.	#bad dns
+50. securepubads.g.doubleclick.net.		#bad dns
+51. ping.chartbeat.net.

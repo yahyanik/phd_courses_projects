@@ -1,0 +1,19 @@
+geico.com. 18 Time(s) at: 2016-10-10 10:57:07.278
+1. geico.com.
+2. ocsp.trustwave.com.
+3. www.geico.com.
+4. assets.adobedtm.com.
+5. ocsp.digicert.com.
+6. dpm.demdex.net.
+7. ssl.google-analytics.com.
+8. cdn.tt.omtrdc.net.
+9. geico.tt.omtrdc.net.
+10. clients1.google.com.
+11. www.google-analytics.com.
+12. geico.d1.sc.omtrdc.net.
+13. stats.g.doubleclick.net.
+14. 2992003.fls.doubleclick.net.
+15. www.googleadservices.com.		#bad dns
+16. www.google.com.
+17. googleads.g.doubleclick.net.		#bad dns
+18. ping.chartbeat.net.

@@ -1,0 +1,29 @@
+Seyed Yahya Nikouei
+
+the files used for the scans are created using the following command:
+tcpdump -i any -Q in > scan_file_name.log
+
+each files' name says what type of scan is in the file. 
+the file "sS_two_times" has two times of -sS scan in it.
+there is also a file called ping which is not a scan, the program also reads this file and shows that there is no scan in it.
+
+log files with name of "tcpdump_scan_*_3.log" has network traffic mixed with them. (while scanning the XP computer was browsing internet).
+the other two files "tcpdump_scan_*_1.log" and "tcpdump_scan_*_2.log" is simply the search of the attacker for whole network.
+there is also 1 file with scan type -sS which the scanner only scanned only one IP in the network : "sS_scan_only_system_129"
+
+the program also accepts files from the command line when used (this is done through the two way file reading in the code) :
+
+scanproject.py --online 
+note : the program accepts both giving file on command line and giving the online output of the tcpdump.
+
+
+I am using keywords to determine what type of scan is happening.
+if there is a ': ICMP echo request,' with the scanner IP then its -O scan.
+if there is a ': Flags [F.], seq ' with the scanner IP then its a -sV scan
+if the times the scanner IP at certain packets appear are less than 2 then its a -F scan.
+if the times the scanner IP at certain packets appear is equal to zero than 2 then its a -F scan.
+otherwise if we detect an scan and its not one of above, then its a -sS scan.
+
+
+
+

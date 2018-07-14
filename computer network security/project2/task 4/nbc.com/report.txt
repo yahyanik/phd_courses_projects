@@ -1,0 +1,98 @@
+nbc.com. 97 Time(s) at: 2016-10-10 10:58:15.894
+1. nbc.com.
+2. www.nbc.com.
+3. ad.doubleclick.net.		#bad dns
+4. cdn.betrad.com.
+5. player.theplatform.com.
+6. ocsp.usertrust.com.
+7. pdk.theplatform.com.
+8. mps.nbcuni.com.
+9. st.dynamicyield.com.
+10. vassg142.ocsp.omniroot.com.
+11. static.dynamicyield.com.
+12. www.googletagservices.com.
+13. oimg.nbcuni.com.
+14. api.mixpanel.com.
+15. l.betrad.com.
+16. api.nbc.com.
+17. www.nbcudigitaladops.com.
+18. 4481714.fls.doubleclick.net.
+19. d3qxwzhswv93jk.cloudfront.net.
+20. b.scorecardresearch.com.
+21. cdn.krxd.net.
+22. secure-us.imrworldwide.com.
+23. cdn.krxd.net.
+24. secure-us.imrworldwide.com.
+25. partner.googleadservices.com.		#bad dns
+26. www.google-analytics.com.
+27. px.dynamicyield.com.
+28. nbcuniversal.sc.omtrdc.net.
+29. securepubads.g.doubleclick.net.		#bad dns
+30. www.budgetedbauer.com.
+31. ocsp.comodoca.com.
+32. www.fallingfalcon.com.
+33. stats.g.doubleclick.net.
+34. tpc.googlesyndication.com.
+35. cm.g.doubleclick.net.
+36. www.google.com.
+37. pagead2.googlesyndication.com.		#bad dns
+38. www.google.com.
+39. js.moatads.com.		#bad dns
+40. odr.mookie1.com.
+41. geo.moatads.com.		#bad dns
+42. ss.symcd.com.
+43. 4481714.fls.doubleclick.net.localdomain.
+44. 4481714.fls.doubleclick.net.
+45. secure.leadback.advertising.com.		#bad dns
+46. platform.twitter.com.
+47. sp.analytics.yahoo.com.
+48. t.co.
+49. connect.facebook.net.
+50. ocsp.entrust.net.
+51. analytics.twitter.com.
+52. www.facebook.com.
+53. segs.btrll.com.
+54. ocsp.digicert.com.
+55. cache.btrll.com.
+56. static.chartbeat.com.
+57. match.adsrvr.org.		#bad dns
+58. snas.nbcuni.com.
+59. secure.quantserve.com.
+60. beacon.krxd.net.
+61. googleads.g.doubleclick.net.		#bad dns
+62. ping.chartbeat.net.
+63. www.nbcnews.com.
+64. www.nbcsports.com.
+65. www.today.com.
+66. pixel.quantserve.com.
+67. js.revsci.net.
+68. www.accesshollywood.com.
+69. www.weather.com.
+70. www.nbcuniversalstore.com.
+71. twitter.com.
+72. pix04.revsci.net.
+73. nbctv.tumblr.com.
+74. geo-um.btrll.com.
+75. cms.analytics.yahoo.com.
+76. aa.agkn.com.
+77. loadm.exelator.com.		#bad dns
+78. rtd.tubemogul.com.
+79. r.nexac.com.
+80. idsync.rlcdn.com.
+81. pixel.mathtag.com.
+82. kr.ixiaa.com.
+83. bea4.v.fwmrm.net.
+84. usermatch.krxd.net.
+85. d.agkn.com.
+86. load.s3.amazonaws.com.		#bad dns
+87. pinterest.com.
+88. ocsp.godaddy.com.
+89. plus.google.com.
+90. www.youtube.com.
+91. pages.mail.nbc.com.
+92. www.nbcuni.com.
+93. www.nbcunicareers.com.
+94. nbcpeacock.rresults.com.
+95. www.comcast.com.
+96. ocsp.godaddy.com.localdomain.	
+97. ocsp.godaddy.com.
